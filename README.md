@@ -11,7 +11,10 @@
 
 <div align="center">
 - 🌱 I’m currently learning Machine Learning, Artificial Intelligence<br>
-- 📫 <a href="mailto:sam.eleazar@gmail.com">Reach Me</a>
+- 💼 I’m looking for Full-Time Opportunities/roles<br>
+- 💬 Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture<br>
+- 🤔 I’m looking for help on how to excel in Competitive Programming<br>
+- 📫 <a href="mailto:sam.eleazar@gmail.com">Reach Me Here</a>
 </div>
 
 ##
