@@ -1,5 +1,5 @@
 
-# Hey everyone! I'm [Samuel Eleazer](https://github.com/dseleazar7) <img src="https://tenor.com/view/wave-hi-hello-gif-670912509191158278" width="25px">
+# Hey everyone! I'm [Samuel Eleazer](https://github.com/dseleazar7) <img src="https://tenor.com/view/wave-hi-hello-gif-670912509191158278" width="">
 <br><br>
 
 <a href="https://www.linkedin.com/in/eleazards/">
