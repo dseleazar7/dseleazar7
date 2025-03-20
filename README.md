@@ -1,4 +1,3 @@
-
 # Hey everyone! I'm [Samuel Eleazer](https://github.com/dseleazar7) <img src="https://tenor.com/view/wave-hi-hello-gif-670912509191158278" width="">
 <br><br>
 
@@ -15,9 +14,7 @@
 ## <p align="center"><h4 align="center"><samp> A Python Developer and DevOps Engineer</samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
-  <br>  
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Artificial Intelligence<br>
 - 📫 How to reach me: sam.eleazar@gmail.com
   <br>
 </div>
