@@ -48,5 +48,4 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
 </span>
 <hr>
-https://www.codewars.com/users/dseleazar7/badges/large?theme=light
 <br>
